@@ -1,21 +1,27 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,18,6,2&height=220&section=header&text=Abdulloh&fontSize=50&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Software%20Engineer&descAlignY=62&descSize=20&animation=twinkling" width="100%"/>
+  <img src="assets/hero-banner.jpg" alt="Abdulloh - Hero Banner" width="100%" style="border-radius: 12px;" />
 </div>
 
-<h2 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&random=false&width=700&lines=Hi+there%2C+I'm+Abdulloh+%F0%9F%91%8B;Full-Stack+Software+Engineer+%F0%9F%92%BB;AI+Systems+%26+LLM+Workflows+Specialist+%F0%9F%A4%96;Crafting+High-Performance+Web+Platforms+%F0%9F%9A%80;From+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BE+%C2%B7+Building+for+the+World+%F0%9F%8C%8D" alt="Typing SVG" />
+<div align="center" style="margin-top: -30px;">
+  <a href="https://github.com/zaxira471-debug">
+    <img src="assets/avatar.png" alt="Abdulloh" width="130" height="130" style="border-radius: 50%;" />
   </a>
-</h2>
+</div>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&random=false&width=750&lines=Hi+there%2C+I'm+Abdulloh+%F0%9F%91%8B;Full-Stack+Software+Engineer+%F0%9F%92%BB;AI+Systems+%26+LLM+Pipelines+Specialist+%F0%9F%A4%96;Telegram%3A+%40gofurov2006+%F0%9F%92%AC;Crafting+Modern%2C+Scalable+Architectures+%F0%9F%9A%80;From+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BE+%C2%B7+Building+for+the+World+%F0%9F%8C%8D" alt="Typing SVG" />
+  </a>
+</h1>
 
 <div align="center">
-  <a href="https://github.com/zaxira471-debug">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://t.me/gofurov2006" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@gofurov2006-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://t.me/zaxira471">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <a href="https://github.com/zaxira471-debug" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-zaxira471--debug-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=zaxira471-debug&color=7928CA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=zaxira471-debug&color=00F5D4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br/>
@@ -30,7 +36,7 @@
       <td align="center" width="25%" style="background: #0d1117; border-radius: 16px; padding: 18px 10px;">
         <div style="font-size: 13px; color: #8b949e; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 6px;">👤 Name</div>
         <div style="font-size: 20px; font-weight: 700; color: #c9d1d9;">Abdulloh</div>
-        <div style="font-size: 13px; color: #00F5D4; margin-top: 4px;">Software Developer</div>
+        <div style="font-size: 13px; color: #00F5D4; margin-top: 4px;">@gofurov2006</div>
       </td>
       <td align="center" width="25%" style="background: #0d1117; border-radius: 16px; padding: 18px 10px;">
         <div style="font-size: 13px; color: #8b949e; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 6px;">📍 Location</div>
@@ -164,11 +170,11 @@
 <h2>🌐 Connect With Me</h2>
 
 <div align="center">
-  <a href="https://github.com/zaxira471-debug" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://t.me/gofurov2006" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@gofurov2006-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://t.me/zaxira471" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <a href="https://github.com/zaxira471-debug" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-zaxira471--debug-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
